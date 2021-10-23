@@ -1,4 +1,4 @@
-##CMPE 256 Assignment 4 : Hierarchical Clustering(Agglomerative)
+ <font size="6"> CMPE 256 Assignment 4 : Hierarchical Clustering(Agglomerative) </font>
 
 Given data points provided, develop Hierarchical Clustering(Agglomerative) using Single Link technique
 
